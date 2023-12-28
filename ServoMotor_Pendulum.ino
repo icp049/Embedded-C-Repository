@@ -30,3 +30,6 @@ void loop()
   }
   delay(2000);
 }
+
+
+//servo motor program
